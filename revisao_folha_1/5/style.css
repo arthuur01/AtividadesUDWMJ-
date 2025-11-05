@@ -1,0 +1,9 @@
+.classe {
+    background-color: yellow;
+}
+
+@media (min-width: 768px) {
+    .elemento {
+        background-color: blue;
+    }
+}
